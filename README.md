@@ -26,4 +26,6 @@ Steps to follow:
    down factor
 6. - value is up to the level of the street
 7. – value is down the level of the street
-8.
+8. in cotrast to our project, the planet project use we use fixed length they
+   use fourier transform==> the transformation will help use identifying the
+   pattern. data effect of cyckling
