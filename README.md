@@ -29,3 +29,6 @@ Steps to follow:
 8. in cotrast to our project, the planet project use we use fixed length they
    use fourier transform==> the transformation will help use identifying the
    pattern. data effect of cyckling
+9. we have an empirical example of using scipy-fft
+
+https://realpython.com/python-scipy-fft/
